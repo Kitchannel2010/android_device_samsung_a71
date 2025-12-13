@@ -4,7 +4,6 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-LOCAL_DIR := $(call my-dir)
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_a71.mk
