@@ -4,6 +4,7 @@
 #
 # SPDX-License-Identifier: Apache-2.0
 #
+LOCAL_PATH := $(call my-dir)
 
 PRODUCT_RELEASE_NAME := a71
 DEVICE_PATH := device/samsung/a71
